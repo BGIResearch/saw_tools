@@ -1,0 +1,3 @@
+[submodule "saw_count_p"]
+	path = saw_count_p
+	url = https://github.com/BGIResearch/saw_count_p.git
