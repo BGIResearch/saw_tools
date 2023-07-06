@@ -1,3 +1,30 @@
+[submodule "saw_bcStar"]
+	path = saw_bcStar
+	url = https://github.com/BGIResearch/saw_bcStar.git
+[submodule "saw_cidcount_p"]
+	path = saw_cidcount_p
+	url = https://github.com/BGIResearch/saw_cidcount_p.git
 [submodule "saw_count_p"]
 	path = saw_count_p
 	url = https://github.com/BGIResearch/saw_count_p.git
+[submodule "saw_merge_p"]
+	path = saw_merge_p
+	url = https://github.com/BGIResearch/saw_merge_p.git
+[submodule "saw_report_p"]
+	path = saw_report_p
+	url = https://github.com/BGIResearch/saw_report_p.git
+[submodule "saw_saturation_p"]
+	path = saw_saturation_p
+	url = https://github.com/BGIResearch/saw_saturation_p.git
+[submodule "saw_spatilCluster"]
+	path = saw_spatilCluster
+	url = https://github.com/BGIResearch/saw_spatilCluster.git
+[submodule "saw_splitMask"]
+	path = saw_splitMask
+	url = https://github.com/BGIResearch/saw_splitMask.git
+[submodule "saw_tissueCut_p"]
+	path = saw_tissueCut_p
+	url = https://github.com/BGIResearch/saw_tissueCut_p.git
+[submodule "geftools"]
+	path = geftools
+	url = https://github.com/BGIResearch/geftools.git
