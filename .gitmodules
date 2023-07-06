@@ -1,0 +1,3 @@
+[submodule "geftools"]
+	path = geftools
+	url = https://github.com/BGIResearch/geftools.git
